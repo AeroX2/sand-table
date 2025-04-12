@@ -1,0 +1,3 @@
+[submodule "code/FluidNC"]
+	path = code/FluidNC
+	url = https://github.com/bdring/FluidNC
